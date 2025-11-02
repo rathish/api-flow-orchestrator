@@ -1,5 +1,5 @@
 {
-  "name": "@rathisj/api-flow-orchestrator",
+  "name": "@yobny/api-flow-orchestrator",
   "version": "1.0.0",
   "description": "Enterprise-grade API orchestration framework with SAGA pattern support for React/React Native applications",
   "main": "dist/index.js",
@@ -34,12 +34,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rathisj/api-flow-orchestrator.git"
+    "url": "https://github.com/yobny/api-flow-orchestrator.git"
   },
   "bugs": {
-    "url": "https://github.com/rathisj/api-flow-orchestrator/issues"
+    "url": "https://github.com/yobny/api-flow-orchestrator/issues"
   },
-  "homepage": "https://github.com/rathisj/api-flow-orchestrator#readme",
+  "homepage": "https://github.com/yobny/api-flow-orchestrator#readme",
   "peerDependencies": {
     "axios": "^1.0.0",
     "@reduxjs/toolkit": "^1.9.0 || ^2.0.0"
